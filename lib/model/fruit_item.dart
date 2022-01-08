@@ -11,7 +11,7 @@ class FruitItem {
       this.longDescription);
 }
 
-List<FruitItem> listItems = [
+List<FruitItem> fruitItems = [
   FruitItem(
       "Orange",
       "orange.png",
